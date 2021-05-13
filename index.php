@@ -1,3 +1,3 @@
 <?php
-include_once("project.html");
+include("project.html");
 ?>
