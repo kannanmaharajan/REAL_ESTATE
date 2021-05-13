@@ -1,8 +1,5 @@
 <!doctype html>
 <html class="no-js"  lang="en">
-<?php
-include("index.php");
-?>
 
 	<head>
 		<!-- META DATA -->
