@@ -14,7 +14,7 @@
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet" />
 
 		<!-- TITLE OF SITE -->
-		<title>NKPG</title>
+		<title>OREB</title>
 
 		<!-- favicon img -->
 		<link rel="shortcut icon" type="image/icon" href="assets/logo/favicon.png"/>
@@ -74,7 +74,7 @@
 						<div class="col-sm-2">
 							<div class="logo">
 								<a href="index.html">
-									NK<span>PG</span>
+									OR<span>EB</span>
 								</a>
 							</div><!-- /.logo-->
 						</div><!-- /.col-->
